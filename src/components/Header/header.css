@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header-menu{
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.img-logo{
+    width: 70px;
+}
